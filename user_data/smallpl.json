@@ -1,0 +1,16 @@
+    "pair_whitelist": [
+      "BTC/USDT",
+      "ETH/USDT",
+      "MATIC/USDT",
+      "XRP/USDT",
+      "ADA/USDT",
+      "DOT/USDT",
+      "TFUEL/USDT",
+      "LINK/USDT",
+      "CHZ/USDT",
+      "LTC/USDT",
+      "SOL/USDT",
+      "THETA/USDT",
+      "SXP/USDT",
+      "FIL/USDT"
+    ]
